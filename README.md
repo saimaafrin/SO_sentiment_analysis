@@ -1,6 +1,6 @@
 # SO_sentiment_analysis
 
-This Repo represents a small project of sentiment analysis using a pretrained Transformor model on StackOverflow (SO) dataset. 
+This Repo represents a small project of **Sentiment Analysis** using a pretrained Transformor model on **StackOverflow (SO)** dataset. 
 
 Dataset: 
 
