@@ -18,14 +18,14 @@ The Dataset is made of 4,800 `questions`, `answers`, and `comments` from Stack O
 
 Model: 
 
-I used the pretraing  DistilBERT model from Huggingface. 
+I used the pretraing  **DistilBERT** model from Huggingface. 
 Specially followed the [Tutorial to Finetune a pretrained Model](https://huggingface.co/blog/sentiment-analysis-python) by Huggingface. 
 
 Steps to run this project:
 
 1. Clone the repo : ```git clone https://github.com/saimaafrin/SO_sentiment_analysis.git```
 
-2. Run the script named `new_SO_analysis.py` to finetune and save the model. 
+2. Run the script named `new_SO_analysis.py` to finetune and save the model. This script includes the code for data processing, model training and testing and saving the model.
 
 ```python3 new_SO_analysis.py```
 
